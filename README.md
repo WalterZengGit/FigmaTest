@@ -150,13 +150,3 @@ npm run dev
 ✅ **Fixed Top Menu for Better Navigation**  
 ✅ **Fully Functional Image Carousel (Auto & Manual Controls)**  
 ✅ **Express API for Dynamic Content**  
-
----
-
-## 📜 **License**
-This project is licensed under the MIT License.
-
----
-
-## 📞 **Need Help?**
-If you encounter any issues or have questions, feel free to open an **Issue** in this repository or contact me directly! 🚀
